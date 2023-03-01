@@ -5,7 +5,7 @@
 
 2.Keyboard speed test
 
-3. QR code generator
+3.QR code generator
 
 4.Covid19 graphs
 
