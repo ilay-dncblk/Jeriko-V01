@@ -6,3 +6,7 @@
 2.Keyboard speed test
 
 3. QR code generator
+
+4.Covid19 graphs
+
+5.Text to speech / Speech to text
