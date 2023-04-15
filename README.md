@@ -10,3 +10,5 @@
 4.Covid19 graphs
 
 5.Text to speech / Speech to text
+
+6.Weather
